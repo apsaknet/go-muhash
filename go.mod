@@ -1,4 +1,4 @@
-module github.com/kaspanet/go-muhash
+module github.com/apsaknet/go-muhash
 
 go 1.16
 
